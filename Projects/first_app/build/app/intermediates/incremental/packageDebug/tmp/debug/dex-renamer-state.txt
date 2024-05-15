@@ -1,0 +1,4 @@
+#Wed May 15 22:42:31 IST 2024
+base.0=C\:\\Users\\aashi\\GitHub\\My Repositories\\Flutter\\Projects\\first_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
