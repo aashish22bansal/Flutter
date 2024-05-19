@@ -7,3 +7,8 @@
         <li>Collection of Tools: These are used in combination with our code to actually convert our code to the code which can run on all the different target platforms.</li>
     </ul>
 </div>
+
+<div>
+    <h2>Material App</h2>
+    <p>This is a Widget and all Flutter apps, by default, use Material Design which is Google's flexible design system. Material Design is just a set of suggestions, rules and guidelines that help you build beautiful User Interface. This does offer a lot of customization options and extendables as well.</p>
+</div>
